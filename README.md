@@ -1,6 +1,6 @@
 # TIME SERIES ANALYSIS
 ### Time Series Analysis is a series that often presents itself in day to day situations and requires forecasting, be it stock prices, weather, etc.
-  ##### In this project, we will forecast the "Closing Price " of Yes Bank (BSE) stock using various techniques.
+  ##### In this project, we will forecast the "Closing Price " of Tata Power (NSE) stock using various techniques.
   ###### The first step is to acquire the data that we perform using the Yahoo finance library, and then we present the Dickey-Fuller test, which is used to measure the stationarity of any Time Series.
 ###### After this step, we plot various graphs to ease the analysis using visual representation. Which is followed by multiple plots drawn to represent -
   - Seasonality
